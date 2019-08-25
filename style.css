@@ -308,7 +308,7 @@ a:hover {
 .yellow-line__center__text {
     text-transform: uppercase;
     margin-top: -3px;
-    font-family: Tahoma;
+    font-family: Tahoma, sans-serif;
 }
 
 /*Slider Card*/
